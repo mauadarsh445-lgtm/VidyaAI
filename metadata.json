@@ -1,0 +1,5 @@
+{
+  "name": "Hindi Explainer Video Creator",
+  "description": "An application that generates short, engaging educational explainer videos in Hindi on a given topic, complete with voice-over, visuals, and background music.",
+  "requestFramePermissions": []
+}
